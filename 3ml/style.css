@@ -1,0 +1,259 @@
+html, body, .contenar {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+font-family: sans-serif;
+}
+.table-cont {
+  height: 100%;
+  width: 100%;
+}
+.t3del {
+    width: 130px;
+    border-radius: 50%;
+}
+
+.rtl-side {
+    background: darkslategrey;
+    width: 323px;
+    color: #5c7e8f;
+    font-family: sans-serif;
+    padding-right: 5px;
+    vertical-align: top;
+    padding-top: 25px;
+    border: 1px solid black;
+}
+
+.divider {
+background-color: darkcyan;
+height: 3px;
+}
+
+.dividere {
+background-color: #009688;
+height: 3px;
+margin-top: 2px;
+}
+
+.avatar {
+  text-align: center;
+}
+
+.rtl-side a img {
+  width: 99px;
+border-radius: 10px;
+}
+
+.rtl-side h3 {
+text-align: center;
+color: silver;
+}
+
+.ltr-side {
+  vertical-align: top;
+}
+
+.ltr-side h1 {
+      background-color: #188795;
+      text-align: center;
+      margin-right: 140px;
+      margin-left: 140px;
+      border-radius: 15px;
+      color: #dbe4e5;
+      font-size: 29px;
+      padding: 4px;
+}
+
+.tkber {
+  font-size: 31px;
+  color: #e19b33;
+  font-family: unset;
+  margin: 32px;
+}
+
+.tkbe {
+      text-align: center;
+      font-size: 25px;
+      color: #767676;
+      font-weight: bolder
+}
+
+.dividerr {
+    background-color: #000000;
+    width: 3px;
+    height: 600px;
+    left: 1033px;
+    position: fixed;
+    top: 2px;
+vertical-align: top;
+}
+
+.targt {
+text-align: center;
+color: goldenrod;
+}
+
+.imgg {
+  width: 95px;
+  border-radius: 50%;
+  position: absolute;
+  left: 159px;
+  top: 463px;
+}
+
+.img {
+  width: 95px;
+    border-radius: 50%;
+    position: absolute;
+    left: 390px;
+    top: 480px;
+}
+
+.poto {
+  color: #767676;
+  font-size: 28px;
+  margin: 26px;
+  text-align: center;
+}
+
+
+.targ {
+      text-align: center;
+      font-size: 30px;
+      color: silver;
+}
+
+.tar {
+      text-align: center;
+      font-size: 21px;
+      color: silver;
+      margin-left: 40px;
+      margin-top: 25px;
+}
+
+.gmail {
+  width: 58px;
+  position: absolute;
+  right: 264px;
+  top: 447px;
+}
+
+.dvd {
+      width: 93px;
+      height: 2px;
+      background-color: darkcyan;
+      position: absolute;
+      right: 231px;
+      top: 295px;
+}
+
+.did {
+      width: 93px;
+      height: 2px;
+      background-color: darkcyan;
+      position: absolute;
+      right: 231px;
+      top: 295px;
+}
+
+.tkoem {
+  width: 63px;
+    position: absolute;
+    border-radius: 50%;
+    right: 245px;
+    top: 350px
+}
+
+.rkm {
+  text-align: center;
+    font-size: 25px;
+    color: silver;
+    margin-left: 8px;
+    margin-top: 52px;
+}
+
+.trans {
+  text-align: center;
+  font-size: 35px;
+  color: silver;
+  background-color: #077e73;
+  margin-left: 35px;
+  margin-right: 35px;
+  border-radius: 50px;
+}
+
+.trae {
+  width: 100px;
+  position: absolute;
+  right: 238px;
+  top: 631px;
+  border-radius: 50%;
+}
+
+.lung {
+  text-align: center;
+  font-size: 35px;
+  color: silver;
+  margin-left: 35px;
+  background-color: #077e73;
+  margin-right: 35px;
+  padding: 8px;
+  border-radius: 50px;
+}
+
+.watsap {
+    width: 61px;
+    position: absolute;
+    right: 262px;
+    top: 522px;
+    border-radius: 50%;
+}
+
+.logo {
+    width: 61px;
+    position: absolute;
+    right: 253px;
+    top: 804px;
+    border-radius: 50%;
+}
+
+.meh {
+    width: 65px;
+    position: absolute;
+    right: 254px;
+    top: 711px;
+    border-radius: 50%;
+}
+
+.foto {
+  text-align: center;
+  color: #767676;
+  font-size: 27px;
+  font-weight: 600;
+}
+
+.target {
+    width: 69px;
+    border-radius: 50%;
+    position: absolute;
+    left: 444px;
+    top: 11px;
+}
+
+.nor {
+      width: 69px;
+      border-radius: 50%;
+      position: absolute;
+      left: 128px;
+      top: 281px;
+}
+
+.school {
+      width: 66px;
+      border-radius: 50%;
+      position: absolute;
+      left: 447px;
+      top: 558px;
+}
